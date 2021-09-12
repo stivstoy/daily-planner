@@ -9,9 +9,10 @@ Create a daily planner that displays the current day and time that you can enter
 * 3rd Party API (Moment.js)
 
 ## Website
-https://stivstoy.github.io/code-quiz/
+https://stivstoy.github.io/daily-planner/
 
-![quiz](https://user-images.githubusercontent.com/87504797/132140507-57f2d020-957a-4915-9447-d408cbefd1f1.jpg)
+![scheduler](https://user-images.githubusercontent.com/87504797/133002372-6e93c27c-cbe6-4c3b-af5a-0aa2d1b3a4c2.jpg)
+
 
 ## Contribution
 Made with ❤️ by Steve Hutson
